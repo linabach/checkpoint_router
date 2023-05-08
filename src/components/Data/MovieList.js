@@ -11,7 +11,7 @@ export const MovieList =[
     {
         id:1,
         name: "Red",
-        imgSrc:"red.jpg",
+        imgSrc:"https://play-lh.googleusercontent.com/I0WkvwG_PitDjENydGVnCw7Gz8Uv3OSQ6wcLfNe1X-1xBrMGx4mp-L3SWFMpDa6gwfwvdvUK9W-qjTCLwA",
         description:"When his life is threatened by an assassin, Frank Moses reunites his old team to uncover his attackers.",
         rate:"4",
         trailer:"https://www.youtube.com/watch?v=-JZ_moituIo"
@@ -34,7 +34,7 @@ export const MovieList =[
         description:
             "A lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
         imgSrc:
-            "her.jpg",
+            "https://fr.web.img5.acsta.net/pictures/14/03/10/10/26/014107.jpg",
         trailer:"https://www.youtube.com/embed/6QRvTv_tpw0"
       
     }
@@ -46,7 +46,7 @@ export const MovieList =[
         description:
             "A single people,are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days.",
         imgSrc:
-            "the lobster.jpg",
+            "https://fr.web.img3.acsta.net/pictures/15/09/15/13/01/532425.jpg",
         trailer:"https://www.youtube.com/embed/vU29VfayDMw"
     
     }
